@@ -109,14 +109,8 @@ blockquote {
 
     .content, .box-content, .position-content, .grid-content, .animation-content {
         max-width: 90%;
-        padding: 10px;
-        margin: 20px auto;
-    }
-
-    .position-content{
-        position: relative;
-        /* padding-bottom: 20vh; */
-        margin-bottom: 60px;
+        padding: 2%;
+        margin: 5% auto;
     }
 
     .box {
